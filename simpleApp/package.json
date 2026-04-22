@@ -1,0 +1,19 @@
+{
+  "name": "simpleapp",
+  "version": "1.0.0",
+  "description": "A simple NodeJs software",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Toto",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0",
+    "supertest": "^7.2.2"
+  }
+}
